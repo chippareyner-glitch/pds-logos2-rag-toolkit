@@ -1,0 +1,18 @@
+# Vector database & cache
+database/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large binary release assets
+*.zip
+*.part
+pds_manuals/*.pdf
+hardware/*.pdf
+academic_papers/*.pdf
+
+# Environments & IDEs
+.venv/
+venv/
+.idea/
+.vscode/
